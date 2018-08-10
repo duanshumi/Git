@@ -1,2 +1,6 @@
 Hello World!
+<<<<<<< HEAD
 Hello Git!
+=======
+Hello Git!
+>>>>>>> dec
